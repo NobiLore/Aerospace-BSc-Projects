@@ -19,5 +19,5 @@ Academic project focused on aerospace propulsion analysis and performance evalua
 ## Author
 
 Lorenzo Nobili  
-BSc Aerospace Engineering  
+BE Aerospace Engineering  
 Politecnico di Milano
